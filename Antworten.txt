@@ -1,0 +1,2 @@
+1 "Ich fahre rechts an der Straßenbahn vorbei" f "Ich bleibe hinter der Straßenbahn" t "Ich überhole die Straßenbahn links" f
+2 "Über Autobahnraststätten" t "Über die Telefonnummern 112 und 110" t "Über Notrufsäulen" t
